@@ -11,7 +11,7 @@ class Title extends Component {
 
     render() {
         return (
-            <div className="page-header">
+            <div className="page-header customtitle">
                 <h1>TO DO LIST<small>by TS</small></h1>
             </div>
         );

@@ -12,3 +12,11 @@ span.label-medium {
     margin: 0px 8px;
     font-size: 16px;
 }
+
+body{
+    background: url(./../img/background.jpg)
+}
+
+.customtitle{
+    text-align: center;
+}
