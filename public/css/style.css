@@ -14,7 +14,8 @@ span.label-medium {
 }
 
 body{
-    background: url(./../img/background.jpg)
+    background: url(./../img/background.jpg);
+    background-size: cover;
 }
 
 .customtitle{
